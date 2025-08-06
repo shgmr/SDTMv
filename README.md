@@ -9,7 +9,7 @@ When working with CDISC SDTM (Study Data Tabulation Model) databases, the goal o
 
 ## 📷 Sample Visualizations
 
-Visual sample [a relative link](SDTM Metrics Interactive Dashboard Snapshot.pdf)
+Visual sample [a relative link](SDTM_Metrics_Interactive_Dashboard_Snapshot.pdf)
 
 ## 📌 Key Insights
 ### 🔍 Why Use Kaplan-Meier for Time to First AE?
