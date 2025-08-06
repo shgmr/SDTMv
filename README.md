@@ -37,4 +37,4 @@ Useful for identifying outliers or subjects needing further evaluation.
 
 ## 🚀 How to Run
 
-Code sample [a relative link](dadhboard.py)
+Code sample [a relative link](dashboard.py)
