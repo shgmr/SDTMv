@@ -7,7 +7,7 @@ When working with CDISC SDTM (Study Data Tabulation Model) databases, the goal o
 
 ---
 
-## 📷 Sample Visualizations
+## 📷 Snapshot Sample
 
 Visual sample [a relative link](SDTM_Metrics_Interactive_Dashboard_Snapshot.pdf) 
 
