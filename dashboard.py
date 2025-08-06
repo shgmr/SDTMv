@@ -1,7 +1,3 @@
-
-
-
-
 import pandas as pd
 import numpy as np
 import plotly.graph_objs as go
@@ -145,3 +141,4 @@ app.layout = dbc.Container([
 
 if __name__ == "__main__":
     app.run(debug=True)
+
