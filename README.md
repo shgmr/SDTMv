@@ -28,6 +28,8 @@ Helps identify clusters or spikes in AE frequency (e.g., around certain visits o
 Stratifying by severity (Mild, Moderate, Severe) highlights the risk profile over time.
 Useful for assessing tolerability of treatment.
 
+Visual sample [a relative link](AE_overtime.png)
+
 ### 📈 Time-Series Plots of ALT and AST per Subject
 1. Trend Monitoring
 Track fluctuations in liver enzymes over time.
