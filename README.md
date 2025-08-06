@@ -39,6 +39,7 @@ Per-subject plots allow personalized safety monitoring.
 Useful for identifying outliers or subjects needing further evaluation.
 
 Visual sample [a relative link](ALT_AST.png)
+
 ---
 
 ## 🚀 How to Run
