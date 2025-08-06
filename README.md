@@ -18,6 +18,8 @@ Kaplan-Meier (KM) analysis estimates the probability of survival (or remaining e
 "Event" is the first occurrence of an AE.
 Censoring applies if a subject never experiences an AE during the study period.
 
+Visual sample [a relative link](Time_to_first_AE.png)
+
 ### ✅ Why AE Over Time Visuals Are Valuable
 1. Temporal Insight
 Shows when AEs occur during the study.
