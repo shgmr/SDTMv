@@ -1,9 +1,9 @@
 ## 📊 SDTM Metrics Interactive Dashboard Project Overview
 When working with CDISC SDTM (Study Data Tabulation Model) databases, the goal of metric visualization is often to support clinical trial data review, quality control, and regulatory submission readiness. Here are several useful types of visualizations you can create, depending on the domain and the kind of insights you're looking for:
 
-📄 database [a relative link](Survival.csv)
-📄 database [a relative link](ae.csv)
-📄 database [a relative link](lb.csv)
+📄 First AE [a relative link](Survival.csv)
+📄 AE [a relative link](ae.csv)
+📄 Lab [a relative link](lb.csv)
 ---
 
 ## 📷 Sample Visualizations
